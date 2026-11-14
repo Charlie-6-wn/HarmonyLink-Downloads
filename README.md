@@ -16,6 +16,6 @@ HarmonyLink 是 HarmonyOS 手机与 Mac 之间的局域网互联工具。
 
 [隐私政策](https://charlie-6-wn.github.io/HarmonyLink-Downloads/privacy.html)
 
-客服及隐私联系：weining7533@gmail.com
+客服及隐私联系：1619436606@qq.com
 
 本仓库不包含开发者私钥、证书身份或配对凭据，手机签名APP不作为公开下载资产。
